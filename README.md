@@ -1,6 +1,6 @@
 
 <<<<<<< HEAD
-ddjddjjdj
+ddjd
 =======
 jdjdjd
 <<<<<<< HEAD
@@ -9,4 +9,4 @@ add
 =======
 addjddjdjjjay 
 >>>>>>> j2
-this is the new 
+this is the new ddiid
